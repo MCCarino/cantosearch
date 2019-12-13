@@ -13,3 +13,4 @@ thumbs.db
 .babelrc
 .travis.yml
 appveyor.yml
+package-lock.json
